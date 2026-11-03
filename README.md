@@ -4,7 +4,7 @@
 
 <div align="center">
     <img src="https://t2.tudocdn.net/662812?w=1920&h=1080"
-     width="40" height="40">
+     width="1920" height="1080">
 </div>
 
 
